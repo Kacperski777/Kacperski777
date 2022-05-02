@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kacperski777
+- 👀 I’m interested in Front-End Web Development.
+- 🌱 I’m currently learning SASS, JS, React.
+- 📫 How to reach me @_kacpersliwinski on instagram.
